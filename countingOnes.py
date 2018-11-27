@@ -11,6 +11,7 @@ def numberOfOnes(n):
 
 #This function loops from 1 to a value given to it and uses
 #The "numberOfOnes" function for the entire range of numbers
+#This is a Nested function
 def countOnes(n):
 	count = 0
 	for i in range(1,n+1):
